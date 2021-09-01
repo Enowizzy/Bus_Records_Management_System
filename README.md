@@ -9,4 +9,4 @@ Thats it guys have fun!
 Contacts
 My Linked Account https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BScO8B5YzTaSErGptRkckKA%3D%3D
 
-E-mail address enockyona906@gmail.com
+Email address enockyona906@gmail.com
