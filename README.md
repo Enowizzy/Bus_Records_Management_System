@@ -5,7 +5,7 @@ Learn java
 How to run the project
 1. Download the project or clone repository, extract files and move inside project folder, and do the following
 2. install glassfish server inside your netbean project
-3. Download and move JDBC server to your java netbean project
+3. Download and move JDBC connector to your java netbean project
 4. Install xampp control panel or your computer
 
 Thats it guys have fun!
