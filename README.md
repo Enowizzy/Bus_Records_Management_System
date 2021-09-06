@@ -1,7 +1,13 @@
 # Bus_Records_Management_System
-This is java based web system
-You need to use mysql database to acces it as well as server like glassfish server
-JDBC connector is necessary for connecting java web app to mysql db so you must install it
+# Java Web Based System
+
+Learn java
+How to run the project
+1. Download the project or clone repository, extract files and move inside project folder, and do the following
+2. install glassfish server inside your netbean project
+3. Download and move JDBC server to your java netbean project
+4. Install xampp control panel or your computer
+
 Thats it guys have fun!
 
  For any enqueries check me on
